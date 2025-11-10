@@ -62,8 +62,8 @@ st.sidebar.write(
 st.sidebar.markdown("### 🙌 Credits")
 st.sidebar.markdown("""
 - 👨‍💻 Developed : **Ansh kunwar**
-- 🧪 Powered :**Streamlit**, **PyTorch**, and **Matplotlib**
-- 📚 Data source : the open-source ML community
+- 🧪 Powered by :**Streamlit**, **PyTorch**, and **Matplotlib**
+- 📚 Data source by the open-source ML community
 - 💡 Source code : [GITHUB](https://github.com/anshk1234/NeuralScope)
 - 📧 contact: anshkunwar3009@gmail.com
 - 🌐 see other projects: [streamlit.io/ansh kunwar](https://share.streamlit.io/user/anshk1234)
@@ -233,4 +233,5 @@ with tab5:
 
 # ---- Footer ----
 st.markdown("<p style='text-align:center; color:white;'>© 2025 NeuralScope | Powered by Neural Network🧬</p>", unsafe_allow_html=True)
+
 
