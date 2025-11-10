@@ -14,7 +14,7 @@ import json
 from streamlit_lottie import st_lottie
 
 # ---- Page Configuration ----
-st.set_page_config(page_title="NeuralScope🧬", layout="centered")
+st.set_page_config(page_title="NeuralScope🧠", layout="centered")
 
 # splash animation
 def load_lottiefile(filepath):
@@ -233,6 +233,7 @@ with tab5:
 
 # ---- Footer ----
 st.markdown("<p style='text-align:center; color:white;'>© 2025 NeuralScope | Powered by Neural Network🧬</p>", unsafe_allow_html=True)
+
 
 
 
