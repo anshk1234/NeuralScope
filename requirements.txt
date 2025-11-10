@@ -1,0 +1,7 @@
+streamlit
+torch
+numpy
+matplotlib
+scikit-learn
+streamlit-lottie
+graphviz
